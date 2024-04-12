@@ -10,4 +10,4 @@
 - 🦈 Please subscribe to: [Nana7mi](https://space.bilibili.com/434334701)
 - 😈 I'm currently learning Rust, Computer System& Backend Development. I'm also intersted in applications of LLM, as well as AI infras.
 - 😔 Weak in algorithms and physics
-- 🪜 Hope to perform magic with tech
+- 🪄 Hope to perform magic with tech
