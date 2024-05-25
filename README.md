@@ -17,4 +17,3 @@ Here is some info about me:
 - 👀 Intersted in and working on: applications of LLM, as well as AI infras
 - 😔 Weak in algorithms and physics
 - 🪄 Hope to perform magic with tech
-- 🦚 Proudly member of: Pivot Studio
