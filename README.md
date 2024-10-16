@@ -14,7 +14,7 @@ Here is some info about me:
 - 😈 Currently learning CUDA programming, Computer System& Backend Development
 - 🔬 Research intern @[ICT@CAS](https://www.ict.ac.cn/). Working on GPU systems.
 - 🐕‍🦺 Former intern @[NoEdgeAI](https://github.com/NoEdgeAI). Working on backend of AI apllications.
-- 👀 Interested in and working on: AI infrastructure, operating systems design, programming languages, sports and fitness, literature, cuisine, and anything that challenges my mind and body.
+- 👀 Interested in and working on: AI infrastructure, operating systems design, programming languages, sports and fitness, literature, cuisine, and anything that delights my mind and body.
 - 😔 Weak in algorithms and physics. Not a good singer.
 - 🪄 Hope to create fun things through coding, ideally making the world a fairer and more prosperous place for me and for everyone.
 - 💬 Feel free to chat with me! Any conversation is welcome.
